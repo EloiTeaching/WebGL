@@ -1,4 +1,4 @@
 # WebGL
 My last WebGL Game page
 
-https://eloiteaching.github.com/WebGL/index.html
+https://eloiteaching.github.io/WebGL/index.html
